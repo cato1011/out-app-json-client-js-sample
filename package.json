@@ -1,0 +1,10 @@
+{
+  "name": "javascript_sample_client",
+  "version": "1.0.0",
+  "description": "Sample Client for the Siwiat Out App JSON",
+  "license": "Apache-2.0",
+  "main": "sample.js",
+  "dependencies": {
+    "siwiat_out_app___json": "file:siwiat_out_app___json"
+  }
+}
