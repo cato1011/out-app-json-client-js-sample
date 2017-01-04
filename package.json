@@ -5,6 +5,10 @@
   "license": "Apache-2.0",
   "main": "sample.js",
   "dependencies": {
-    "siwiat_out_app___json": "file:siwiat_out_app___json"
+    "siwiat_out_app___json": "1.0.0"
+  },
+  "repository" :
+  { "type" : "git", 
+	"url" : "https://github.com/siwiat/out-app-json-client-js-sample.git"
   }
 }
