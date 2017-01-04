@@ -8,14 +8,16 @@
 
 ## Requirements
 
-* Node.js
-* Tools: GIT, npm
+* SIWIAT App-Box with Out-App JSON with IP-Address [IP-OF-YOUR-APP-BOX]
+* Node
+* Tools: git, npm
 
 ## Usage
 
 ### Installation
 
-    git clone https://github.com/siwiat/out-app-json-client-js.git
+    git clone https://github.com/siwiat/out-app-json-client-js-sample.git
+    cd out-app-json-client-js-sample
     npm install
     
 ## Getting started
