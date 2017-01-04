@@ -15,18 +15,18 @@
 
 ### Installation
 
-    git clone https://github.com/siwiat/out-app-json-client-php.git
+    git clone https://github.com/siwiat/out-app-json-client-js.git
     npm install
     
 ## Getting started
 
-Change the host to your SIWIAT App-Box in ```sample.php```:
+Change the host to your SIWIAT App-Box in ```sample.js```:
 
 ```javascript
 apiClient.basePath = 'http://[IP-OF-YOUR-APP-BOX]/websites/ab/index.php/json/api';
 ```
 
-Executing the ```sample.php```
+Executing the ```sample.js```
 
     > node sample.js
     
@@ -36,9 +36,9 @@ will show the current value of the 0th channel:
     Value the Channel: 62
 
     
-## Sample.php explained
+## Sample.js explained
 
-In the sample.php you find a simple minimal client. This client
+In the sample.js you find a simple minimal client. This client
 
 * fetches all channels from the App-Box
 * extracts the valueid of the 0th channel
